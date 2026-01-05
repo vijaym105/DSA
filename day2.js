@@ -40,11 +40,11 @@
 // traingle(3,4,5);
 
 
-function circle(r){
-    let C = 2 - Math.PI - r;
-    console.log(C);
+// function circle(r){
+//     let C = 2 - Math.PI - r;
+//     console.log(C);
      
-}
+// }
 
-circle(5);
+// circle(5);
 
