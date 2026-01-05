@@ -31,7 +31,7 @@
 // let pr = Number(prompt("Whats your age?"));
 // console.log(typeof(pr));
 
-// Swaping of two number
+// Swaping of two number 
 // let a = 10;
 // let b = 20;
 
@@ -41,3 +41,9 @@
 // console.log(temp);
 
 
+// a = 10;
+// b= ++a;
+// console.log(a);
+// console.log(b);
+
+// console.log(null == undefined);
