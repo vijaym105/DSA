@@ -53,17 +53,17 @@
 // console.log("Your payable amount is : " + (amount - (dis * amount)/100));
 
 
+// Calc the electicity price based on units
+ // function calculateElectricityBill(unit) {
 
-function calculateElectricityBill(unit) {
-
-    let price = 0;
-    if(unit > 0 && unit <=100) price = 4.2;
-    if(unit > 100 && unit <=200) price = 6;
-    if(unit > 200 && unit <=400) price = 8;
-    if(unit > 400) price = 13;
+//     let price = 0;
+//     if(unit > 0 && unit <=100) price = 4.2;
+//     if(unit > 100 && unit <=200) price = 6;
+//     if(unit > 200 && unit <=400) price = 8;
+//     if(unit > 400) price = 13;
     
-    return ((unit*price).toFixed(1));
+//     return ((unit*price).toFixed(1));
     
-}
+// }
 
- calculateElectricityBill(30);
+//  calculateElectricityBill(30);
